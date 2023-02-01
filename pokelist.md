@@ -55,6 +55,12 @@
 ### Lendários:
 > Zacian,
 
+## <strong>Hisui</strong>:
+> Qwilfish, Sneasel, Avalugg
+
+### Lendários:
+> <br>
+
 
 <br>
 
@@ -141,3 +147,15 @@
 #### **Lendários shiny com ou sem legacy**
 > <br>
 ---
+
+## <strong>Hisui</strong>:
+#### **Comuns shiny com ou sem legacy**
+> <br>
+
+#### **Comuns shiny festivos**
+> <br>
+
+#### **Lendários shiny com ou sem legacy**
+> <br>
+ ---
+ 
