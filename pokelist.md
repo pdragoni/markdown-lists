@@ -35,7 +35,7 @@
 
 --- 
 ## <strong>Kalos</strong>: 
-> Pancham, Inkay, Helioptile, Tyrunt, Amaura, Dedenne, Goomy, Klefki, Bergmite, Noibat,
+> Pancham, Inkay, Helioptile, Tyrunt, Dedenne, Goomy, Klefki, Bergmite, Noibat,
 
 ### Lendários:
 > Xerneas, Yveltal, Zygarde, Diancie, Hoopa, Volcanion
@@ -55,6 +55,7 @@
 ### Lendários:
 > Zacian,
 
+---
 ## <strong>Hisui</strong>:
 > Qwilfish, Sneasel, Avalugg
 
@@ -71,7 +72,7 @@
 
 ## <strong>Kanto</strong>:
 #### ***Comuns shiny com ou sem legacy***
-> Bulbasaur+, Charmander+, Squirtle+, Caterpie+, Beedrill, Raticate, Ekans, Pikachu+, Sandshrew, Nidoran&fêmea+, Nidoking, Jigglypuff, Oddish, Diglett, Persian, Psyduck, Primeape, Growlithe+, Alakazam, Machop+, Magnemite+, Grimer, Gastly+, Onix, Voltorb, Cubone+, Rhydon+, Chansey+, Mr. Mime, Scyther, Electabuzz+, Magmar+, Ditto, Gyarados, Eevee+, Porygon+, Omanyte+, Kabuto+, Aerodactyl, Snorlax, Dratini+, 
+> Bulbasaur+, Charmander+, Squirtle+, Caterpie+, Beedrill, Raticate, Ekans, Pikachu+, Sandshrew, Nidoran&fêmea+, Nidoran&macho, Nidoking, Jigglypuff, Oddish, Diglett, Persian, Psyduck, Primeape, Growlithe+, Alakazam, Machop+, Magnemite+, Grimer, Gastly+, Onix, Voltorb, Cubone+, Rhydon+, Chansey+, Mr. Mime, Scyther, Electabuzz+, Magmar+, Ditto, Gyarados, Eevee+, Porygon+, Omanyte+, Kabuto+, Aerodactyl, Snorlax, Dratini+, 
 
 #### ***Comuns shiny festivos***
 > Squirtle de óculos, Pikachu+, 
