@@ -1,65 +1,66 @@
 # Lista comum:
+ ## `O que preciso`:
 
-  ## <strong>Kanto</strong>:
+  * ## <strong>Kanto</strong>:
 
 > Meowth+, Koffing+, Kangaskhan, Staryu+, Pinsir, Lapras, Ditto
 
 --- 
-## <strong>Johto</strong>:
+* ## <strong>Johto</strong>:
 > Hoothoot+, Bellossom, Sunkern+, Girafarig, Delibird, Mantine+, Smeargle, Miltank, 
 
-### Lendários:
+ ### Lendários:
 
 > Entei, Suicune
 
 --- 
-## <strong>Hoenn</strong>:
+* ## <strong>Hoenn</strong>:
 > Wurmple&macho, Cascoon, Dustox, Taillow+, Nincada+, Shedinja, Electrike, Minun, Torkoal, Zangoose, Kecleon, Absol, Wynaut, Snorunt&fêmea, Clamperl, Gorebyss,
 
-### Lendários:
+ ### Lendários:
 > Regirock, Regice, Registeel, Latias, Rayquaza,
 
 --- 
-## <strong>Sinnoh</strong>:
+* ## <strong>Sinnoh</strong>:
 > Combee&fêmea, Pachirisu, Mime Jr., Spiritomb, Hippopotas&fêmea,Carnivine, Finneon+, Mantyke+, Rotom
 
-### Lendários:
+ ### Lendários:
 > Uxie, Mesprit, Azelf, Palkia, Heatran, Regigigas, Darkrai, Shaymin, Arceus
 
 --- 
-## <strong>Unova</strong>:
+* ## <strong>Unova</strong>:
 > Pansage, Timburr+, Leavanny, Petilil, Basculin(olho vermelho), Sandile, Scraggy, Sigilyph, Tirtouga, Archen, Trubbish, Zorua, Gothita, Frillish&macho, Klink+, Axew, Cryogonal, Shelmet, Stunfisk(amarelo), Mienfoo, Druddigon, Golett, Pawniard, Bouffalant,
 
-### Lendários:
+ ### Lendários:
 > Cobalion, Terrakion, Virizion, Tornadus, Thundurus, Landorus (nuvem), Zekrom
 
 --- 
-## <strong>Kalos</strong>: 
-> Pancham, Inkay, Helioptile, Tyrunt, Dedenne, Goomy, Klefki, Bergmite, Noibat,
+* ## <strong>Kalos</strong>: 
+> Pancham, Inkay, Helioptile, Tyrunt, Dedenne, Goomy, Klefki, Bergmite,
 
-### Lendários:
+ ### Lendários:
 > Xerneas, Yveltal, Zygarde, Diancie, Hoopa, Volcanion
 
 --- 
-## <strong>Alola</strong>:
+* ## <strong>Alola</strong>:
 > Grimer, Marowak, Rowlet, Litten, Grubbin, Vikavolt, Crabrawler, Oricorio, Rockruff, Mareanie, Dewpider, Salandit, Oranguru, Wimpod, Togedemaru, Jangmo-o
 
-### Lendários:
+ ### Lendários:
 
 > Tapu Lele, Tapu Fini, Tapu Bulu, Nihilego, Pheromosa, Xurkitree, Celesteela, Kartana, Guzzlord
 
 --- 
-## <strong>Galar</strong>:
+* ## <strong>Galar</strong>:
 > Slowpoke, Weezing, Mr. Mime, Yamask
 
-### Lendários:
+ ### Lendários:
 > Zacian,
 
 ---
-## <strong>Hisui</strong>:
+* ## <strong>Hisui</strong>:
 > Qwilfish, Sneasel, Avalugg
 
-### Lendários:
+ ### Lendários:
 > <br>
 
 
@@ -69,6 +70,8 @@
 
 ---
 # Lista Troca Lucky:
+## `Escolha abaixo caso tenha troca lucky comigo`:
+
 
 ## <strong>Kanto</strong>:
 #### ***Comuns shiny com ou sem legacy***
