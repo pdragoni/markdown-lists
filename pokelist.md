@@ -1,9 +1,9 @@
 # Lista comum:
- ## `O que preciso`:
+ ## `O que preciso:`
 
   * ## <strong>Kanto</strong>:
 
-> Meowth+, Koffing+, Kangaskhan, Staryu+, Pinsir, Lapras, Ditto
+> Meowth+, Koffing+, Kangaskhan, Staryu+, Pinsir, Lapras,
 
 --- 
 * ## <strong>Johto</strong>:
@@ -29,7 +29,7 @@
 
 --- 
 * ## <strong>Unova</strong>:
-> Pansage, Timburr+, Leavanny, Petilil, Basculin(olho vermelho), Sandile, Scraggy, Sigilyph, Tirtouga, Archen, Trubbish, Zorua, Gothita, Frillish&macho, Klink+, Axew, Cryogonal, Shelmet, Stunfisk(amarelo), Mienfoo, Druddigon, Golett, Pawniard, Bouffalant,
+> Pansage, Timburr+, Petilil, Basculin(olho vermelho), Sandile, Scraggy, Sigilyph, Tirtouga, Archen, Trubbish, Zorua, Gothita, Frillish&macho, Klink+, Axew, Cryogonal, Shelmet, Stunfisk(amarelo), Mienfoo, Druddigon, Golett, Pawniard, Bouffalant,
 
  ### Lendários:
 > Cobalion, Terrakion, Virizion, Tornadus, Thundurus, Landorus (nuvem), Zekrom
@@ -70,7 +70,7 @@
 
 ---
 # Lista Troca Lucky:
-## `Escolha abaixo caso tenha troca lucky comigo`:
+## `Escolha abaixo caso tenha troca lucky comigo:`
 
 
 ## <strong>Kanto</strong>:
@@ -115,7 +115,7 @@
 ---
 ## <strong>Unova</strong>:
 #### ***Comuns shiny com ou sem legacy***
-> Snivy+, Tepig+, Oshawott+, Pidove, Roggenrola+, Audino, Timburr, Minccino+, Alomomola, Ferroseed, Klink, Litwick+, Rufflet, Vullaby, Deino+
+> Snivy+, Tepig+, Oshawott+, Pidove, Roggenrola+, Audino, Timburr, Minccino+, Alomomola, Ferroseed, Klink, Litwick+, Stunfisk, Rufflet, Vullaby, Deino+
 
 #### ***Comuns shiny festivos***
 > <br>
@@ -125,7 +125,7 @@
 ---
 ## <strong>Kalos</strong>:
 #### ***Comuns shiny com ou sem legacy***
-> Chespin+, Fletchling+, Inkay
+> Chespin+, Fletchling+, Inkay, Noibat+,
 
 #### ***Comuns shiny festivos***
 > <br>
@@ -134,7 +134,7 @@
 ---
 ## <strong>Alola</strong>:
 #### ***Comuns shiny com ou sem legacy***
-> Raticate, Raichu, Sandshrew, Meowth, Geodude, Grimer, Exeggutor, Marowak, Stufful+
+> Raticate, Raichu, Sandshrew, Meowth, Geodude, Grimer, Exeggutor, Marowak, Stufful+, Stunfisk,
 
 #### ***Comuns shiny festivos***
 > <br>
