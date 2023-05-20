@@ -139,7 +139,7 @@
 #### ***Comuns shiny festivos***
 > <br>
 #### ***Lendários shiny com ou sem legacy***
-> Tapu Koko
+> Tapu Koko, Tapu Fini
 ---
 ## <strong>Galar</strong>:
 #### **Comuns shiny com ou sem legacy**
@@ -154,7 +154,7 @@
 
 ## <strong>Hisui</strong>:
 #### **Comuns shiny com ou sem legacy**
-> <br>
+> Kleavor
 
 #### **Comuns shiny festivos**
 > <br>
