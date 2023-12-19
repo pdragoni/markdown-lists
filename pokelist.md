@@ -7,7 +7,7 @@
 
 --- 
 * ## <strong>Johto</strong>:
-> Hoothoot+, Bellossom, Sunkern+, Girafarig, Delibird, Mantine+, Smeargle, Miltank, 
+> Hoothoot+, Bellossom, Girafarig, Delibird, Mantine+, Smeargle, Miltank, 
 
  ### Lendários:
 
@@ -29,21 +29,21 @@
 
 --- 
 * ## <strong>Unova</strong>:
-> Pansage, Timburr+, Petilil, Basculin(olho vermelho), Sandile, Scraggy, Sigilyph, Tirtouga, Archen, Trubbish, Zorua, Gothita, Frillish&macho, Klink+, Axew, Cryogonal, Shelmet, Stunfisk(amarelo), Mienfoo, Druddigon, Golett, Pawniard, Bouffalant,
+> Pansage, Petilil, Basculin(olho vermelho), Sandile, Scraggy, Sigilyph, Tirtouga, Trubbish, Zorua, Gothita, Frillish&macho, Klink+, Axew, Cryogonal, Shelmet, Stunfisk(amarelo), Mienfoo, Druddigon, Golett, Pawniard, Bouffalant,
 
  ### Lendários:
-> Cobalion, Terrakion, Virizion, Tornadus, Thundurus, Landorus (nuvem), Zekrom
+> Cobalion, Terrakion, Virizion, Tornadus, Thundurus, Landorus (nuvem)
 
 --- 
 * ## <strong>Kalos</strong>: 
-> Pancham, Inkay, Helioptile, Tyrunt, Dedenne, Goomy, Klefki, Bergmite,
+> Pancham, Inkay, Helioptile, Dedenne, Goomy, Klefki, Bergmite,
 
  ### Lendários:
 > Xerneas, Yveltal, Zygarde, Diancie, Hoopa, Volcanion
 
 --- 
 * ## <strong>Alola</strong>:
-> Grimer, Marowak, Rowlet, Litten, Grubbin, Vikavolt, Crabrawler, Oricorio, Rockruff, Mareanie, Dewpider, Salandit, Oranguru, Wimpod, Togedemaru, Jangmo-o
+> Grimer, Marowak, Rowlet, Litten, Crabrawler, Oricorio, Rockruff, Mareanie, Dewpider, Salandit, Oranguru, Wimpod, Jangmo-o
 
  ### Lendários:
 
@@ -51,7 +51,7 @@
 
 --- 
 * ## <strong>Galar</strong>:
-> Slowpoke, Weezing, Mr. Mime, Yamask
+> Weezing, Mr. Mime, Yamask
 
  ### Lendários:
 > Zacian,
