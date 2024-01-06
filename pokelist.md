@@ -36,14 +36,14 @@
 
 --- 
 * ## <strong>Kalos</strong>: 
-> Pancham, Inkay, Helioptile, Dedenne, Goomy, Klefki, Bergmite,
+> Scatterbug, Flabebe, Pancham, Inkay, Binacle, Clauncher, Helioptile, Tyrunt, Carbink,  Goomy, Klefki, Bergmite,
 
  ### Lendários:
 > Xerneas, Yveltal, Zygarde, Diancie, Hoopa, Volcanion
 
 --- 
 * ## <strong>Alola</strong>:
-> Grimer, Marowak, Rowlet, Litten, Crabrawler, Oricorio, Rockruff, Mareanie, Dewpider, Salandit, Oranguru, Wimpod, Jangmo-o
+> Grimer, Marowak, Rowlet, Litten, Crabrawler, Oricorio, Cutiefly, Rockruff, Mareanie, Dewpider, Morelull, Salandit, Bounsweet, Oranguru, Passimian, Wimpod, Sandygast, Komala, Turtonator, Bruxish, Jangmo-o
 
  ### Lendários:
 
@@ -63,10 +63,15 @@
  ### Lendários:
 > <br>
 
+---
+* ## <strong>Paldea</strong>:
+> Sprigatito, Fuecoco, Quaxly, Nymble, Pawmi, Smoliv, Tadbulb, Greavard, Cetoddle, Frigibax, Gimmighoul,
+
+  ### Lendários:
+> Meltan
+
 
 <br>
-
----
 
 ---
 # Lista Troca Lucky:
@@ -154,7 +159,7 @@
 
 ## <strong>Hisui</strong>:
 #### **Comuns shiny com ou sem legacy**
-> Kleavor
+> Kleavor, Wyrdeer,
 
 #### **Comuns shiny festivos**
 > <br>
@@ -162,4 +167,14 @@
 #### **Lendários shiny com ou sem legacy**
 > <br>
  ---
- 
+
+ ## <strong>Paldea</strong>:
+#### **Comuns shiny com ou sem legacy**
+> <br>
+
+#### **Comuns shiny festivos**
+> <br>
+
+#### **Lendários shiny com ou sem legacy**
+> <br>
+ ---
