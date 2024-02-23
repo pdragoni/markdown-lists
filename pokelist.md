@@ -7,7 +7,7 @@
 
 --- 
 * ## <strong>Johto</strong>:
-> +Hoothoot, Bellossom, Girafarig, Delibird, +Mantine, Smeargle, Miltank, 
+> Bellossom, Girafarig, Delibird, +Mantine, Smeargle, Miltank, 
 
  ### Lendários:
 
@@ -65,7 +65,7 @@
 
 ---
 * ## <strong>Paldea</strong>:
-> Sprigatito, Fuecoco, Quaxly, Nymble, Pawmi, Smoliv, Tadbulb, Greavard, Cetoddle, Frigibax, Gimmighoul,
+> Sprigatito, Fuecoco, Quaxly, Nymble, Pawmi, Smoliv, Tadbulb, Greavard, Cetoddle, Frigibax, Gimmighoul, Varoom
 
   ### Lendários:
 > Meltan
@@ -80,7 +80,7 @@
 
 ## <strong>Kanto</strong>:
 #### ***Comuns shiny com ou sem legacy***
-> +Bulbasaur, +Charmander, +Squirtle, +Caterpie, Beedrill, Raticate, Ekans, +Pikachu, Sandshrew, Nidoran&+female, Nidoran&male, Nidoking, Jigglypuff, Oddish, Diglett, Persian, Psyduck, Primeape, +Growlithe, Alakazam, +malep, +Magnemite, Grimer, +Gastly, Onix, Voltorb, +Cubone, +Rhydon, +Chansey, Mr. Mime, Scyther, +Electabuzz, +Magmar, Ditto, Gyarados, +Eevee, +Porygon, +Omanyte, +Kabuto, Aerodactyl, Snorlax, +Dratini, 
+> +Bulbasaur, +Charmander, +Squirtle, +Caterpie, Beedrill, Raticate, Ekans, +Pikachu, Sandshrew, Nidoran&+female, Nidoran&male, Nidoking, Jigglypuff, Oddish, Diglett, Persian, Psyduck, Primeape, +Growlithe, Alakazam, +Magnemite, Grimer, +Gastly, Onix, Voltorb, +Cubone, +Rhydon, +Chansey, Mr. Mime, Scyther, +Electabuzz, +Magmar, Ditto, Gyarados, +Eevee, +Porygon, +Omanyte, +Kabuto, Aerodactyl, Snorlax, +Dratini, 
 
 #### ***Comuns shiny festivos***
 > Squirtle de óculos, +Pikachu, 
@@ -91,7 +91,7 @@
 ---
 ## <strong>Johto</strong>:
 #### ***Comuns shiny com ou sem legacy***
-> +Chikorita, +Cyndaquil, +Totodile, Sentret, Spinarak, Togetic, +Mareep, +Marill, Suddowoodo, +Hoppip, +Aipom, +Yanma, Espeon, Umbreon, Murkrow, Pineco, Dunsparce, Gligar, +Steelix, +Snubull, Qwilfish, Scizor, Heracross, Sneasel, +Teddiursa, Delibird, Skarmory, Houndoom, Stantler, Tyrogue, Hitmontop, Magby, Miltank, +Larvitar,
+> +Chikorita, +Quilava, +Totodile, Sentret, Spinarak, Togetic, +Mareep, +Marill, Suddowoodo, +Hoppip, +Aipom, +Yanma, Espeon, Umbreon, Murkrow, Pineco, Dunsparce, Gligar, +Steelix, +Snubull, Qwilfish, Scizor, Heracross, Sneasel, +Teddiursa, Delibird, Skarmory, Houndoom, Stantler, Tyrogue, Hitmontop, Magby, Miltank, +Larvitar,
 
 #### ***Comuns shiny festivos***
 > Pichu
@@ -101,36 +101,36 @@
 ---
 ## <strong>Hoenn</strong>:
 #### ***Comuns shiny com ou sem legacy***
-> +Treecko, Blaziken, +Mudkip, +Poochyena, Linoone, Wurmple, Lotad, +Seedot, Pelipper, Ralts, +Slakoth, +Azurill, Sableye, +Aron, Electrike, Plusle, Roselia, +Carvanha, +Wailmer, Numel, Spoink, +Trapinch, +Swablu, Lunatone, Solrock, +Barboach, Lileep, Armaldo, Feebas, Castform, +Shuppet, +Duskull, Chimecho, Absol, Snorunt, Spheal, +Clamperl, +Bagon, Metagross
+> +Treecko, Blaziken, +Mudkip, +Poochyena, +Zigzagoon, Wurmple, Lotad, +Seedot, Pelipper, +Ralts, +Slakoth, +Azurill, Sableye, +Aron, Electrike, Plusle, Roselia, +Carvanha, +Wailmer, Numel, Spoink, +Vibrava, +Swablu, Lunatone, Solrock, +Barboach, Cradily, Armaldo, +Feebas, Castform, +Shuppet, +Duskull, Chimecho, Absol, Snorunt, Walrein, +Clamperl, +Bagon, +Metang
 
 #### ***Comuns shiny festivos***
 > <br>
 
 #### ***Lendários shiny com ou sem legacy***
-> Regice, Latias, Rayquaza
+> Regice, Latias, Latios, Rayquaza
 ---
 ## <strong>Sinnoh</strong>:
 #### ***Comuns shiny com ou sem legacy***
-> +Turtwig, +Chimchar, +Piplup, +Starly, Bidoof, +Kricketot, Shinx, Cranidos, Burmy, Buizel, Ambipom, Lopunny, Mismagius, Honchkrow, Bronzor, Spiritomb, Gible, Riolu, Hippopotas&male, +Croagunk, Weavile, Magnezone, Rhyperior, Electivire, Magmortar, Mamoswine, Porygon-Z, Gallade
+> +Grotle, Infernape, Empoleon, +Starly, Bidoof, +Kricketot, Shinx, Cranidos, Burmy, Buizel, Ambipom, Lopunny, Mismagius, Honchkrow, +Bronzor, Happiny, Spiritomb, +Gible, Riolu, Hippopotas&female, +Croagunk, Weavile, Magnezone, Rhyperior, Electivire, Magmortar, Togekiss, Mamoswine, Porygon-Z, Gallade
 
 #### ***Comuns shiny festivos***
 > <br>
 #### ***Lendários shiny com ou sem legacy***
-> Azelf, Dialga, Giratina, Darkrai
+> Azelf, Giratina, Cresselia
 ---
 ## <strong>Unova</strong>:
 #### ***Comuns shiny com ou sem legacy***
-> +Snivy, +Tepig, +Oshawott, Pidove, +Roggenrola, Audino, Timburr, +Minccino, Alomomola, Ferroseed, Klink, +Litwick, Stunfisk, Rufflet, Vullaby, +Deino
+> +Snivy, +Tepig, +Oshawott, Pidove, +Boldore, Audino, +Timburr, +Minccino, Alomomola, Ferroseed, Klink, +Litwick, +Haxorus, Stunfisk, Rufflet, Vullaby, +Deino
 
 #### ***Comuns shiny festivos***
 > <br>
 
 #### ***Lendários shiny com ou sem legacy***
-> Virizion, Reshiram, Landorus (nuvem)
+> Virizion, Reshiram, Landorus
 ---
 ## <strong>Kalos</strong>:
 #### ***Comuns shiny com ou sem legacy***
-> +Chespin, +Fletchling, Inkay, +Noibat,
+> +Chespin, +Fennekin, +Fletchling, +Froakie, Inkay, Tyrunt, +Noibat,
 
 #### ***Comuns shiny festivos***
 > <br>
@@ -139,7 +139,7 @@
 ---
 ## <strong>Alola</strong>:
 #### ***Comuns shiny com ou sem legacy***
-> Raticate, Raichu, Sandshrew, Meowth, Geodude, Grimer, Exeggutor, Marowak, +Stufful, Stunfisk, Rowlet
+> Raticate, Raichu, Sandslash, Meowth, Geodude, Golem, Grimer, Exeggutor, Marowak, Rowlet, Decidueye, +Grubbin, +Stufful, Turtonator, 
 
 #### ***Comuns shiny festivos***
 > <br>
@@ -148,7 +148,7 @@
 ---
 ## <strong>Galar</strong>:
 #### **Comuns shiny com ou sem legacy**
-> Ponyta, Zigzagoon, Yamask, Stunfisk
+> Ponyta, Obstagoon, Yamask, Stunfisk, Slowbro, Slowpoke, Slowking, Mr. Mime, Darumaka, Weezing
 
 #### **Comuns shiny festivos**
 > <br>
@@ -159,7 +159,7 @@
 
 ## <strong>Hisui</strong>:
 #### **Comuns shiny com ou sem legacy**
-> Kleavor, Wyrdeer,
+> Kleavor, Wyrdeer, Ursaluna, Decidueye, Sneasel
 
 #### **Comuns shiny festivos**
 > <br>
@@ -170,7 +170,8 @@
 
  ## <strong>Paldea</strong>:
 #### **Comuns shiny com ou sem legacy**
-> <br>
+>  Wooper, Clodsire, Lechonk
+ <br>
 
 #### **Comuns shiny festivos**
 > <br>
