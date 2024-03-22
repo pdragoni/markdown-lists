@@ -7,7 +7,7 @@
 
 --- 
 * ## <strong>Johto</strong>:
-> Bellossom, Girafarig, Delibird, +Mantine, Smeargle, Miltank, 
+> Bellossom, Delibird, +Mantine, Smeargle, Miltank, 
 
  ### Lendários:
 
@@ -15,7 +15,7 @@
 
 --- 
 * ## <strong>Hoenn</strong>:
-> Wurmple&male, Cascoon, Dustox, +Taillow, +Nincada, Shedinja, Electrike, Minun, Torkoal, Zangoose, Kecleon, Absol, Wynaut, Snorunt&female, Clamperl, Gorebyss,
+> Wurmple&male, Cascoon, Dustox, +Taillow, +Nincada, Shedinja, Electrike, Minun, Torkoal, Zangoose, Wynaut, Snorunt&female, Clamperl, Gorebyss,
 
  ### Lendários:
 > Regirock, Regice, Registeel, Latias, Rayquaza,
@@ -43,7 +43,7 @@
 
 --- 
 * ## <strong>Alola</strong>:
-> Grimer, Marowak, Litten, Crabrawler, Oricorio, Cutiefly, Rockruff, Mareanie, Dewpider, Morelull, Salandit, Bounsweet, Oranguru, Passimian, Wimpod, Sandygast, Komala, Turtonator, Bruxish, Jangmo-o
+> Grimer, Marowak, Crabrawler, Oricorio, Cutiefly, Rockruff, Mareanie, Dewpider, Morelull, Salandit, Bounsweet, Oranguru, Passimian, Wimpod, Sandygast, Komala, Turtonator, Bruxish, Jangmo-o
 
  ### Lendários:
 
@@ -58,7 +58,7 @@
 
 ---
 * ## <strong>Hisui</strong>:
-> Qwilfish, Sneasel, Avalugg
+> Avalugg
 
  ### Lendários:
 > <br>
