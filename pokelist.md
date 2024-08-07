@@ -3,11 +3,11 @@
 
   * ## <strong>Kanto</strong>:
 
-> +Meowth, +Koffing, Kangaskhan, +Staryu, Pinsir, Lapras,
+> +Meowth, Kangaskhan, +Staryu, Pinsir, Lapras,
 
 --- 
 * ## <strong>Johto</strong>:
-> Bellossom, Delibird, +Mantine, Smeargle, Miltank, 
+> Delibird, +Mantine, Smeargle, Miltank, 
 
  ### Lendários:
 
@@ -15,7 +15,7 @@
 
 --- 
 * ## <strong>Hoenn</strong>:
-> Wurmple&male, Cascoon, Dustox, +Taillow, +Nincada, Shedinja, Electrike, Minun, Torkoal, Zangoose, Wynaut, Snorunt&female, Clamperl, Gorebyss,
+> +Wurmple, +Taillow, +Nincada, Shedinja, Electrike, Minun, Torkoal, Zangoose, Wynaut, Snorunt&female, Clamperl, Gorebyss,
 
  ### Lendários:
 > Regirock, Regice, Registeel, Latias, Rayquaza,
@@ -29,21 +29,21 @@
 
 --- 
 * ## <strong>Unova</strong>:
-> Pansage, Petilil, Basculin, Sandile, Scraggy, Sigilyph, Tirtouga, Trubbish, Zorua, Gothita, Frillish&male, +Klink, Axew, Cryogonal, Shelmet, Stunfisk, Mienfoo, Druddigon, Golett, Pawniard, Bouffalant,
+> Pansage, Basculin, Sandile, Scraggy, Sigilyph, Tirtouga, Trubbish, Zorua, Gothita, Frillish&male, +Klink, Axew, Cryogonal, Shelmet, Mienfoo, Druddigon, Golett, Pawniard, Bouffalant,
 
  ### Lendários:
 > Cobalion, Terrakion, Virizion, Tornadus, Thundurus, Landorus 
 
 --- 
 * ## <strong>Kalos</strong>: 
-> Scatterbug, Flabebe, Pancham, Inkay, Binacle, Clauncher, Helioptile, Tyrunt, Carbink,  Goomy, Klefki, Bergmite,
+> Scatterbug, Flabebe, Pancham, Inkay, Binacle, Clauncher, Helioptile, Tyrunt, Carbink, Klefki, Bergmite,
 
  ### Lendários:
 > Xerneas, Yveltal, Zygarde, Diancie, Hoopa, Volcanion
 
 --- 
 * ## <strong>Alola</strong>:
-> Grimer, Marowak, Crabrawler, Oricorio, Cutiefly, Rockruff, Mareanie, Dewpider, Morelull, Salandit, Bounsweet, Oranguru, Passimian, Wimpod, Sandygast, Komala, Turtonator, Bruxish, Jangmo-o
+> Grimer, Marowak, Crabrawler, Oricorio, Cutiefly, Rockruff, Mareanie, Dewpider, Morelull, Salandit, Oranguru, Passimian, Wimpod, Komala, Turtonator, Bruxish, Jangmo-o
 
  ### Lendários:
 
@@ -65,7 +65,7 @@
 
 ---
 * ## <strong>Paldea</strong>:
-> Sprigatito, Fuecoco, Quaxly, Nymble, Pawmi, Smoliv, Tadbulb, Greavard, Cetoddle, Frigibax, Gimmighoul, Varoom
+> Fuecoco, Quaxly, Nymble, Pawmi, Smoliv, Tadbulb, Greavard, Cetoddle, Frigibax, Gimmighoul, Varoom
 
   ### Lendários:
 > Meltan

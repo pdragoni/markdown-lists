@@ -3,9 +3,7 @@
 
   * ## <strong>Kanto</strong>:
 
-> 
-+Rattata, +Spearow, +Ekans, +Pikachu, +Nidoran&male, +Oddish, +Venonat, +Farfetch'd, +Gastly, +Onix, 
-+Drowzee, +Cubone, +Kangas, +Horsea +Staryu, +Scyther, +Tauros, +Lapras, +Omanyte, 
+> +Rattata, +Spearow +Oddish, +Venonat, +Farfetch'd, +Gastly, +Onix, +Cubone, +Kangas, +Horsea, +Staryu, +Scyther, +Tauros, +Lapras, +Omanyte
 
  ### Lendários:
 
@@ -13,7 +11,7 @@
  
 --- 
 * ## <strong>Johto</strong>:
-> +Cyndaquil, +Ledyba, +Chinchou, +Pichu, +Mareep, +Hoppip, +Aipom, +Yanma, +Murkrow, +Wobbuffet, +Qwilfish, +Teddiursa, +Slugma, +Swinub, +Corsola, +Remoraid, +Mantine, +Skarmory, +Stantler, Smeargle, +Hitmontop, +Smoochum, +Larvitar
+> +Ledyba, +Chinchou, +Pichu, +Mareep, +Hoppip, +Aipom, +Yanma, +Wobbuffet, +Qwilfish, +Teddiursa, +Slugma, +Swinub, +Corsola, +Remoraid, Mantine, +Skarmory, +Stantler, +Hitmontop, +Smoochum, +Larvitar
 
  ### Lendários:
 
@@ -21,7 +19,7 @@
 
 --- 
 * ## <strong>Hoenn</strong>:
-> +Poochyena, +Taillow, +Wingull, +Surskit, +Nincada, +Nosepass, +Sableye, +Mawile, +Manectric, +Plusle, +Illumise, +Roselia, +Torkoal, +Cacnea, +Corphish, +Kecleon, +Duskull, +Tropius, +Absol, +Wynaut, +Snorunt&male, +Clamperl, +Relicanth, 
+> +Poochyena, +Taillow, +Wingull, +Nincada, +Nosepass, +Sableye, +Mawile, +Manectric, +Plusle, +Illumise, +Roselia, +Torkoal, +Cacnea, +Corphish, +Kecleon, +Tropius, +Absol, +Wynaut, +Snorunt&male, +Clamperl, +Relicanth, 
 
   ### Lendários:
 > Registeel, Latias, Latios, Kyogre, Groudon, Rayquaza
