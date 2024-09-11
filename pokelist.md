@@ -260,9 +260,9 @@ Tapu Lele, Tapu Fini, Tapu Bulu, Nihilego, Pheromosa, Xurkitree, Celesteela, Kar
  ***Lendários shiny com ou sem legacy***
  Tapu Koko, Tapu Fini
 
+</details>
 ---
 
-</details>
 
   <details>
     <summary>
