@@ -38,7 +38,7 @@
     </summary>
 
  #### Não lendários:
-> Wurmple, Taillow, Nincada, Shedinja, Electrike, Minun, Torkoal, Zangoose, Wynaut, Snorunt;
+> Wurmple, Taillow, Nincada, Shedinja, Electrike, Minun, Torkoal, Wynaut;
 
  #### Lendários:
 > Regirock, Regice, Registeel, Latias, Rayquaza;
@@ -83,7 +83,7 @@
     </summary>
     
  #### Não lendários:
-> Scatterbug, Flabebe, Pancham, Inkay, Binacle, Clauncher, Helioptile, Tyrunt, Carbink, Klefki, Bergmite;
+> Scatterbug, Flabebe, Pancham, Clauncher, Helioptile, Tyrunt, Klefki;
 
  #### Lendários:
 > Xerneas, Yveltal, Zygarde, Diancie, Hoopa, Volcanion;
@@ -98,11 +98,14 @@
     </summary>
 
  #### Não lendários:
-Marowak, Oricorio, Cutiefly, Rockruff, Mareanie, Dewpider, Salandit, Oranguru, Passimian, Wimpod, Komala, Turtonator, Jangmo-o;
+> Oricorio, Cutiefly, Rockruff, Mareanie, Dewpider, Salandit, Oranguru, Passimian, Wimpod, Komala, Turtonator, Jangmo-o;
+  
+ #### Multi:
+> alola&Marowak, Raichu;
 
  #### Lendários:
 
-Tapu Lele, Tapu Fini, Tapu Bulu, Nihilego, Pheromosa, Xurkitree, Celesteela, Kartana, Guzzlord, Necrozma, Poipole, Stakataka, Blacephalon;
+> Tapu Lele, Tapu Fini, Tapu Bulu, Nihilego, Pheromosa, Xurkitree, Celesteela, Kartana, Guzzlord, Necrozma, Poipole, Stakataka, Blacephalon;
 
 </details> 
 
@@ -114,10 +117,13 @@ Tapu Lele, Tapu Fini, Tapu Bulu, Nihilego, Pheromosa, Xurkitree, Celesteela, Kar
     </summary>
 
  #### Não lendários:
-> Weezing, Mr. Mime, Yamask, Grookey, Scorbunny, Sobble, Hatenna;
+> Grookey, Scorbunny, Sobble, Hatenna;
 
  #### Lendários:
 > Zacian, Regieleki, Regidrago;
+
+  #### Multi:
+> galar&Weezing, Mr. Mime, Yamask;
 
 </details>
 
@@ -129,7 +135,10 @@ Tapu Lele, Tapu Fini, Tapu Bulu, Nihilego, Pheromosa, Xurkitree, Celesteela, Kar
     </summary>
 
  #### Não lendários:
-> Samurott, Braviary, Decidueye, Wyrdeer;
+> Braviary, Wyrdeer;
+
+  #### Multi:
+> hisui&Samurott, Typhlosion, Decidueye;
 
  #### Lendários:
 > Enamorous;
@@ -149,8 +158,6 @@ Tapu Lele, Tapu Fini, Tapu Bulu, Nihilego, Pheromosa, Xurkitree, Celesteela, Kar
   #### Lendários:
 > Meltan;
 
-
-<br>
 
 </details>
 
