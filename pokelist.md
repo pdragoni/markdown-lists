@@ -117,13 +117,13 @@
     </summary>
 
  #### Não lendários:
-> Grookey, Scorbunny, Sobble, Hatenna;
+> Scorbunny, Sobble, Rookidee, Toxtricity, Sinistea, Hatenna, Stonjourner, Morpeko, Dreepy;
 
  #### Lendários:
 > Zacian, Regieleki, Regidrago;
 
   #### Multi:
-> galar&Weezing, Mr. Mime, Yamask;
+> galar&Weezing, Mr. Mime, Yamask, Corsola;
 
 </details>
 
@@ -153,7 +153,7 @@
     </summary>
 
  #### Não lendários:
-> Quaxly, Nymble, Pawmi, Smoliv, Tadbulb, Greavard, Cetoddle, Frigibax, Gimmighoul, Varoom;
+> Quaxly, Nymble, Pawmi, Smoliv, Tadbulb, Bombirdier, Shroodle, Greavard, Cetoddle, Frigibax, Gimmighoul, Varoom;
 
   #### Lendários:
 > Meltan;
