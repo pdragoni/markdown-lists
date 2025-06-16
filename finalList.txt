@@ -1,10 +1,22 @@
-Meowth+, Koffing+, Kangaskhan, Staryu+, Pinsir, Lapras,
-Hoothoot+, Bellossom, Girafarig, Delibird, Mantine+, Smeargle, Miltank,
-Wurmple&macho, Cascoon, Dustox, Taillow+, Nincada+, Shedinja, Electrike, Minun, Torkoal, Zangoose, Kecleon, Absol, Wynaut, Snorunt&fêmea, Clamperl, Gorebyss,
-Combee&fêmea, Pachirisu, Mime Jr., Spiritomb, Hippopotas&fêmea,Carnivine, Finneon+, Mantyke+, Rotom,
-Pansage, Petilil, Basculin, Sandile, Scraggy, Sigilyph, Tirtouga, Trubbish, Zorua, Gothita, Frillish&macho, Klink+, Axew, Cryogonal, Shelmet, Stunfisk, Mienfoo, Druddigon, Golett, Pawniard, Bouffalant,
-Scatterbug, Flabebe, Pancham, Inkay, Binacle, Clauncher, Helioptile, Tyrunt, Carbink,  Goomy, Klefki, Bergmite,
-Alola&Grimer, Alola&Marowak, Rowlet, Litten, Crabrawler, Oricorio, Cutiefly, Rockruff, Mareanie, Dewpider, Morelull, Salandit, Bounsweet, Oranguru, Passimian, Wimpod, Sandygast, Komala, Turtonator, Bruxish, Jangmo-o,
-Galar&Weezing, galar&Mr, galar&yamask,
-Hisui&Qwilfish, Hisui&Sneasel, Hisui&Avalugg, Wyrdeer, 
-Sprigatito, Fuecoco, Quaxly, Nymble, Pawmi, Smoliv, Tadbulb, Greavard, Cetoddle, Frigibax, Gimmighoul,
+non_legendary: Kangaskhan, Staryu, Lapras;
+non_legendary: Delibird, Mantine, Smeargle, Miltank;
+non_legendary: Wurmple, Taillow, Nincada, Shedinja, Electrike, Minun, Torkoal, Wynaut;
+non_legendary: Combee, Pachirisu, Mime Jr, Spiritomb, Hippopotas, Carnivine, Finneon, Mantyke, Rotom;
+non_legendary: Pansage, Basculin, Sandile, Scraggy, Sigilyph, Tirtouga, Trubbish, Zorua, Gothita, Frillish, Klink, Axew, Cryogonal, Shelmet, Mienfoo, Druddigon, Golett, Pawniard, Bouffalant;
+non_legendary: Scatterbug, Flabebe, Pancham, Clauncher, Helioptile, Tyrunt, Klefki;
+non_legendary: Oricorio, Cutiefly, Rockruff, Mareanie, Dewpider, Salandit, Oranguru, Passimian, Wimpod, Komala, Turtonator, Jangmo-o;
+non_legendary: Scorbunny, Sobble, Rookidee, Toxtricity, Sinistea, Hatenna, Stonjourner, Morpeko, Dreepy;
+non_legendary: Braviary, Wyrdeer;
+non_legendary: Quaxly, Nymble, Pawmi, Smoliv, Tadbulb, Bombirdier, Shroodle, Greavard, Cetoddle, Frigibax, Gimmighoul, Varoom;
+multi: alola&Marowak, Raichu;
+multi: galar&Weezing, Mr. Mime, Yamask, Corsola;
+multi: hisui&Samurott, Typhlosion, Decidueye;
+legendary: Suicune;
+legendary: Regirock, Regice, Registeel, Latias, Rayquaza;
+legendary: Uxie, Mesprit, Palkia, Heatran, Regigigas;
+legendary: Cobalion, Terrakion, Virizion, Tornadus, Thundurus, Landorus;
+legendary: Xerneas, Yveltal, Zygarde, Diancie, Hoopa, Volcanion;
+legendary: Tapu Lele, Tapu Fini, Tapu Bulu, Nihilego, Pheromosa, Xurkitree, Celesteela, Kartana, Guzzlord, Necrozma, Poipole, Stakataka, Blacephalon;
+legendary: Zacian, Regieleki, Regidrago;
+legendary: Enamorous;
+legendary: Meltan;

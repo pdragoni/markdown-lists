@@ -1,22 +1,5 @@
 import re
-
-
-def extract_pokemon(file_path, category):
-    with open(file_path, 'r', encoding='utf-8') as file:
-        content = file.read()
-
-    # Use regex to find text between '#### category-of-Pokémon:>' and ';'
-    
-    # pattern = rf'#### {category}:\s*>\s*([\w\s.,;]+);' 
-    # # does not find multi-region pokemon
-
-    pattern = rf'#### {category}:\s*>\s*([\w\s.,&;-]+);' 
-    # in JS: new RegExp(`#### ${category}:\\s*>\\s*([\\w\\s.,&;-]+);`)
-    matches = re.findall(pattern, content, re.S)
-
-    # Clean up the matches to remove trailing commas or whitespace
-    cleaned_matches = [match.strip(', ') for match in matches if match]
-    return cleaned_matches
+from extract_content import extract_pokemon
 
 
 def print_pokemon(file_path):
@@ -38,6 +21,7 @@ def print_pokemon(file_path):
 
 
 # file_path and print_pokemon()
+pokemon_list = 'finalList.txt'
 file_path = 'pokelist.md'
 # file_path = 'shinyList.md'
 print_pokemon(file_path)
